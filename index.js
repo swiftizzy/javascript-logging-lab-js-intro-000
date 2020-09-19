@@ -1,3 +1,3 @@
-//console.error("HALP!")
-//console.warn("Danger")
-//console.log("Will Robinson")
+console.error("HALP!")
+console.warn("Danger")
+console.log("Will Robinson")
