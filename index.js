@@ -1,3 +1,3 @@
 console.error("HALP!")
-console.warn("Danger")
-console.log("Will Robinson")
+console.warn("This would be a warning")
+console.log("We log here")
